@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1713196528 source:d:\codeblocks\library\books.cpp
+	"Books.h"
+	<string>
+	<cstring>
+
+1713042182 d:\codeblocks\library\books.h
+	"RFS.h"
+	<string>
+
+1712968591 d:\codeblocks\library\stor.h
+
+1713198164 source:d:\codeblocks\library\main.cpp
+	<conio.h>
+	<sstream>
+	"RFS.h"
+	"library.h"
+	"Books.h"
+
+1712965877 source:d:\codeblocks\library\stor.cpp
+	"stor.h"
+
+1713027421 d:\codeblocks\library\library.h
+	"RFS.h"
+
+1713042182 d:\codeblocks\library\rfs.h
+	<fstream>
+	<iostream>
+	"stor.h"
+
+1713198164 source:d:\codeblocks\library\library.cpp
+	"library.h"
+	<cstring>
+	<string>
+	"Books.h"
+	"RFS.h"
+
+1713034767 source:d:\codeblocks\library\rfs.cpp
+	"RFS.h"
+
